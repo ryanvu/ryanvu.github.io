@@ -10,6 +10,10 @@ ul
 {
 	list-style-type: none;
 }
+a
+{
+	color: inherit;
+}
 /*fuck instagram*/
 .ig-b-
 {
@@ -41,3 +45,4 @@ ul
 		background-size: 60px 178px;
 	}
 }
+/*end fucking*/
