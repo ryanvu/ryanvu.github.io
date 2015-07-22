@@ -43,13 +43,13 @@ a:hover
 {
 	width: 24px;
 	height: 24px;
-	background: url(//badges.instagram.com/static/images/ig-badge-sprite-24.png) no-repeat 0 0;
+	background: url(//https://www.aesop.com/media/wysiwyg/1304-INSTAGRAM-ICON-20x20px-FA-1.png) no-repeat 0 0;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx)
 {
 	.ig-b-24
 	{
-		background-image: url(//badges.instagram.com/static/images/ig-badge-sprite-24@2x.png);
+		background-image: url(//https://www.aesop.com/media/wysiwyg/1304-INSTAGRAM-ICON-20x20px-FA-1.png);
 		background-size: 60px 178px;
 	}
 }
