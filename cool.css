@@ -43,13 +43,13 @@ a:hover
 {
 	width: 24px;
 	height: 24px;
-	background: url(http://static.wixstatic.com/media/cf1b8b_79a83f259d9f4139b9ffa272f76a0317.gif) no-repeat 0 0;
+	background: url() no-repeat 0 0;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx)
 {
 	.ig-b-24
 	{
-		background-image: url(http://static.wixstatic.com/media/cf1b8b_79a83f259d9f4139b9ffa272f76a0317.gif);
+		background-image: url();
 		background-size: 60px 178px;
 	}
 }
