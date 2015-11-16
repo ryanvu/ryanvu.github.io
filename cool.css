@@ -13,9 +13,10 @@ nav ul
 	list-style-type: none;
 	padding: 3%;
 	margin:0px;
-	width: 80%;
+	width: 88%;
 	display: table;
 	table-layout: fixed;
+	text-align: center;
 }
 nav li 
 {
