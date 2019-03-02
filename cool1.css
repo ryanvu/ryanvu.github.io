@@ -1,0 +1,73 @@
+body
+{
+	font-family: "courier";
+}
+
+center img
+{
+	padding: 25px;
+	text-align: center;
+	height: 50%;
+	width: 35%;
+}
+
+
+#top
+{
+	text-align: none;
+}
+nav ul
+{
+	list-style-type: none;
+	padding: 3%;
+	margin:0px;
+	width: 88%;
+	display: table;
+	table-layout: fixed;
+	text-align: center;
+}
+nav li 
+{
+	display: inline;
+	width: auto;
+	padding-left:10%;
+
+}
+
+#wrapper
+{
+        display: flex;
+}
+ 
+aside 
+{
+        /* 12em is the width of the columns */
+        flex: 0 0 5em;
+        
+}
+ 
+aside ul
+{
+    list-style:none;
+    padding-top:120px;
+    padding-left:0%;
+}
+
+aside li
+{
+	margin-top:35px;
+	margin-bottom:35px;
+}
+
+a
+{
+	color: inherit;
+}
+a:link
+{
+	text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
