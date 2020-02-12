@@ -1,0 +1,45 @@
+nav
+{
+	background-color: gray;
+	position: fixed;
+	display: flex;
+	flex-direction: column;
+	alight-items: center;
+	justify-content: center;
+	width: 250px;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+ul
+{
+	margin: 0px;
+	padding: 0px;
+}
+li
+{
+	display: block;
+	list-style-type: none;
+	text-align: center;
+}
+
+img
+{
+
+}
+
+.imgbox
+{
+	display: grid;
+	height: 100%;
+	padding-left: 250px;
+}
+
+.center-fit
+{
+	max-width: 100%;
+	max-height: 100%;
+	margin: auto;
+	height: 700px;
+	padding: 50px;
+}
